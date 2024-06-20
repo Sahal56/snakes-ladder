@@ -1,8 +1,8 @@
 # Title : SNAKES & LADDER
 
-# Language : JAVA
+## Language : JAVA
 
-# Requirements
+## Requirements
 - JAVA [Download](https://www.oracle.com/java/technologies/downloads/)
 - Code Editor
 
@@ -15,7 +15,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_333-b02)
 Java HotSpot(TM) 64-Bit Server VM (build 25.333-b02, mixed mode)
 ```
 
-# Deployment
+## Deployment
 
 ### Compile
 
