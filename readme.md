@@ -4,9 +4,9 @@
 
 ## Requirements
 - JAVA [Download](https://www.oracle.com/java/technologies/downloads/)
-- Code Editor
+- Code Editor [Recommended VS Code]
 
-```bash
+```sh
 $ javac -version
 javac 1.8.0_333
 $ java -version 
@@ -19,17 +19,19 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.333-b02, mixed mode)
 
 ### Compile
 
-```bash
+```sh
 $ javac ./src/*.java -d ./build
 ```
 
 ### Run
 
-Go to build Directory/Folder
-`$ cd build`
+1. Go to build Directory/Folder
+```sh
+$ cd build
+```
 
-& Run
-```bash
+3. Run
+```sh
 $ java Game
 ```
 
